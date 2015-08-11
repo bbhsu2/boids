@@ -1,0 +1,9 @@
+*/obj
+*/bin
+*/*/obj
+*/*/bin
+*.DS_Store
+*/*.DS_Store
+*/*/*.DS_Store
+*.userprefs
+
